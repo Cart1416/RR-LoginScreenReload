@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "WjSRFp1hfYk=",
+  "success": true,
+  "projectFilePath": "/home/cart/Desktop/RecRoomClaudeMods/Mod/LoginScreenReload/LoginScreenReload.csproj",
+  "expectedPackageFiles": [
+    "/home/cart/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/cart/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "/home/cart/Desktop/RecRoomClaudeMods/Mod/LoginScreenReload/LoginScreenReload.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/cart/Desktop/RecRoomClaudeMods/Mod/LoginScreenReload/LoginScreenReload.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://nuget.bepinex.dev/v3/index.json.",
+      "projectPath": "/home/cart/Desktop/RecRoomClaudeMods/Mod/LoginScreenReload/LoginScreenReload.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/cart/Desktop/RecRoomClaudeMods/Mod/LoginScreenReload/LoginScreenReload.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://nuget.samboy.dev/v3/index.json.",
+      "projectPath": "/home/cart/Desktop/RecRoomClaudeMods/Mod/LoginScreenReload/LoginScreenReload.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/cart/Desktop/RecRoomClaudeMods/Mod/LoginScreenReload/LoginScreenReload.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
