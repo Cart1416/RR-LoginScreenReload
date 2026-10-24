@@ -1,5 +1,6 @@
-yay ai readme
-btw you need to put BepInEx files in the BepInEx folder to build
+yay ai readme  
+btw you need to put BepInEx files in the BepInEx folder to build  
+yes this plugin was fully made with ai
 # LoginScreenReload
 
 BepInEx (IL2CPP) plugin for Rec Room. Pressing **F1** while on the login screen reloads the login screen (`TitleScreen` scene).
